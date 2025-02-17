@@ -1,4 +1,4 @@
-# Sistema de Controle de Posicao da Bola em Túnel de Vento
+# Sistema de Controle de Altura de uma Bola em Tunel de Vento
 
 ## 1. Introdução
 
